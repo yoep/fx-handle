@@ -7,6 +7,10 @@ license-file = "LICENSE"
 description = "A unique opaque Rust handle which can be used as resource identifier."
 repository = "https://github.com/yoep/fx-handle"
 readme = "README.md"
+exclude = [
+    "/.config",
+    "/.github",
+]
 
 [lib]
 crate-type = ["rlib"]
