@@ -1,0 +1,16 @@
+[package]
+name = "fx-handle"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+license-file = "LICENSE"
+description = "A unique opaque Rust handle which can be used as resource identifier."
+repository = "https://github.com/yoep/fx-handle"
+readme = "README.md"
+
+[lib]
+crate-type = ["rlib"]
+
+[dependencies]
+derive_more = { version = "1.0.0", features = ["display"] }
+rand = "0.8.5"
