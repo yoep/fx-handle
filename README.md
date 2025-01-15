@@ -1,6 +1,7 @@
 # FX-Handle
 ![Build](https://github.com/yoep/fx-handle/workflows/Build/badge.svg)
 ![Version](https://img.shields.io/github/v/tag/yoep/fx-handle?label=version)
+[![Crates](https://img.shields.io/crates/v/fx-handle)](https://crates.io/crates/fx-handle)
 [![License: Apache-2.0](https://img.shields.io/github/license/yoep/fx-handle)](./LICENSE)
 [![codecov](https://codecov.io/gh/yoep/fx-handle/branch/master/graph/badge.svg?token=A801IOOZAH)](https://codecov.io/gh/yoep/fx-handle)
 
