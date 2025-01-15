@@ -20,6 +20,7 @@ fn example() {
 ```
 */
 
+#[doc(inline)]
 pub use handle::*;
 
 mod handle;
