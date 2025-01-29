@@ -17,4 +17,4 @@ crate-type = ["rlib"]
 
 [dependencies]
 derive_more = { version = "1.0.0", features = ["display"] }
-rand = "0.8.5"
+rand = "0.9.0"
