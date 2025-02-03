@@ -16,5 +16,5 @@ exclude = [
 crate-type = ["rlib"]
 
 [dependencies]
-derive_more = { version = "1.0", features = ["display"] }
+derive_more = { version = "2.0", features = ["display"] }
 rand = "0.9"
